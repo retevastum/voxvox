@@ -26,4 +26,6 @@ If you like this project feel free to support via xmr, btg, btc or eth here: <ht
 
 ## More
 
-http://voxvox.de
+* http://voxvox.de
+* Discuss on github wiki: (https://github.com/retevastum/voxvox/wiki)
+* Discuss on slack: (https://retevastum.slack.com)
